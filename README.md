@@ -1,6 +1,6 @@
 # Software Quality Assurance — Code Review
 
-- **Nama:** Kelompok 3
+- **Kelompok 3**
 
 ## 1. Code Review Manual — Studi Kasus John Travolta
 
